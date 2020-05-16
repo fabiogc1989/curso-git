@@ -8,8 +8,7 @@ namespace Console_Test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
-
-            Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Tenha um bom dia.");
         }
     }
 }
